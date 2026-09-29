@@ -84,7 +84,7 @@ Durante minha formação, estou desenvolvendo conhecimentos em programação, de
 - Desenvolvimento de sistemas
 - Prototipagem com Figma
 - Gerenciamento de projetos com Trello
-- Git e GitHub
+- GitHub
 
 ---
 
