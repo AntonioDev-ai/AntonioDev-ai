@@ -68,7 +68,6 @@ Durante minha formação, estou desenvolvendo conhecimentos em programação, de
 - Visual Studio Code
 - Figma
 - Trello
-- Git
 - GitHub
 
 ---
